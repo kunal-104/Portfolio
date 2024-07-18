@@ -9,6 +9,7 @@ const Contact = () => {
         <h2>Contact</h2>
         <p>Feel free to reach out!</p>
     </div>
+    <div className={styles.links}>
     <ul className={styles.links}>
         <li className={styles.link}>
             <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
@@ -23,6 +24,7 @@ const Contact = () => {
             <a href="http://www.github.com/kunal-104">github.com/Kunal</a>
         </li>
     </ul>
+    </div>
 
   </footer>
 }
