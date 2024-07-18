@@ -37,7 +37,7 @@ const About = () => {
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
+          {/* <li className={styles.aboutItem}>
             <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon" />
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
@@ -45,7 +45,7 @@ const About = () => {
                 I have designed multiple landing pages and have created design systems as well
               </p>
             </div>
-          </li>
+          </li> */}
         </ul>
       </div>
     </section>
