@@ -20,6 +20,23 @@
     "imageSrc": "projects/project.png",
     "description": "This is a ReactNative App made to upload and watch AI generated videos.",
     "skills": ["React Native", "Appwrite"],
+    "demo": "https://youtu.be/SDgyWEkdQyU?si=BrNmSKONqAXprAQc",
     "source": "https://github.com/kunal-104/aora"
-  }
+  },
+    {
+    "title": "Project Ecommerce App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a ReactNative App, a basic prototype of Ecommerce App.",
+    "skills": ["React Native"],
+    "demo": "https://youtu.be/tjBT0eVPFkU?si=pS5vDmeqzpNV0UFL",
+    "source": "https://github.com/kunal-104/React-Native-Ecommerce-App"
+  },
+      {
+    "title": "Project Rick and Morty App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a ReactNative App, that fetches and represent Rick and Morty Cartoon data from its API.",
+    "skills": ["React Native"],
+    "demo": "https://youtu.be/_-iP_WVsHy0?si=2GH0lFz1zQhV6Pox",
+    "source": "https://github.com/kunal-104/RickandMorty"
+  },
 ]
