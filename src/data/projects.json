@@ -16,10 +16,10 @@
     "source": "https://github.com/kunal-104/socialclient"
   },
   {
-    "title": "Project React Native Game",
+    "title": "React Native Game",
     "imageSrc": "projects/project.png",
     "description": "This is a ReactNative MCQ Game for fun and gaining knowledge.",
-    "skills": ["React Native", "Firebase"],
+    "skills": ["ReactNative", "Firebase"],
     "demo": "https://youtu.be/_OHObJ7FVcU?si=t5IkeS-NL6fs2xUU",
     "source": "https://github.com/kunal-104/nativeMCQGame"
   },
@@ -40,7 +40,7 @@
     "source": "https://github.com/kunal-104/React-Native-Ecommerce-App"
   },
       {
-    "title": "Project Rick and Morty App",
+    "title": "Rick & Morty App",
     "imageSrc": "projects/project.png",
     "description": "This is a ReactNative App, that fetches and represent Rick and Morty Cartoon data from its API.",
     "skills": ["React Native"],
