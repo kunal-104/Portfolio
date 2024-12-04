@@ -16,6 +16,14 @@
     "source": "https://github.com/kunal-104/socialclient"
   },
   {
+    "title": "Project React Native Game",
+    "imageSrc": "projects/project.png",
+    "description": "This is a ReactNative MCQ Game for fun and gaining knowledge.",
+    "skills": ["React Native", "Firebase"],
+    "demo": "https://youtu.be/_OHObJ7FVcU?si=t5IkeS-NL6fs2xUU",
+    "source": "https://github.com/kunal-104/nativeMCQGame"
+  },
+  {
     "title": "Project Aora",
     "imageSrc": "projects/project.png",
     "description": "This is a ReactNative App made to upload and watch AI generated videos.",
