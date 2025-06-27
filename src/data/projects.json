@@ -15,14 +15,6 @@
     "demo": "https://youtu.be/SDgyWEkdQyU?si=BrNmSKONqAXprAQc",
     "source": "https://github.com/kunal-104/aora"
   },
-    {
-    "title": "Project Ecommerce App",
-    "imageSrc": "projects/project.png",
-    "description": "This is a ReactNative App, a basic prototype of Ecommerce App.",
-    "skills": ["React Native"],
-    "demo": "https://youtu.be/tjBT0eVPFkU?si=pS5vDmeqzpNV0UFL",
-    "source": "https://github.com/kunal-104/React-Native-Ecommerce-App"
-  },
       {
     "title": "Rick & Morty App",
     "imageSrc": "projects/project.png",
