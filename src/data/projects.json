@@ -1,21 +1,5 @@
 [
   {
-    "title": "Project Initiator",
-    "imageSrc": "projects/project.png",
-    "description": "A webApp for reading and  watching , blogs, articles and youtube videos.",
-    "skills": ["Next", "Node", "NextUI", "EditorJS"],
-    "demo": "https://initiate.vercel.app/",
-    "source": "https://github.com/kunal-104/finalINIT"
-  },
-  {
-    "title": "Project Outfitters",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest Ecommerce sites logic.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://tanejasoutfitters.netlify.app/",
-    "source": "https://github.com/kunal-104/socialclient"
-  },
-  {
     "title": "React Native Game",
     "imageSrc": "projects/project.png",
     "description": "This is a ReactNative MCQ Game for fun and gaining knowledge.",
